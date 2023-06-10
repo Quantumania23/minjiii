@@ -6,7 +6,7 @@ const typed = new Typed('.skillset',{
     loop:true
 })
 
-const typeds = new Typeds('.slideshow',{
+const typeds = new Typed('.slideshow',{
     strings: ['Mathematically articulate', 'Globetrotter', 'Coffeholic'],
     typeSpeed: 100,
     backSpeed: 100,

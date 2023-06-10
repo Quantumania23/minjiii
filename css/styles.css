@@ -495,8 +495,8 @@ nav ul li a:hover::after{
 
 
 #footer{
-    background-image: url(/assets/pexels-pixabay-268533.jpg);
-    background-color: aqua;
+    /* background-image: url(/assets/pexels-pixabay-268533.jpg); */
+    background-color: #08061c;
 }
 .logo2{
 position: relative;
